@@ -48,4 +48,5 @@ Bước 15: Sử dụng giao diện đồ hoạ của ssms: Xoá csdl đã tạo
 Bước 16: Tạo cửa sổ mới để gõ lệnh: mở file dulieu.sql của bước 14, chạy toàn bộ các lệnh này. REFRESH lại cây liệt kê các database => kiểm chứng kết quả được tạo ra tương đương với các bước 6,7,8,9,10,11,12,13.
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e55fe505-07b2-40c8-8cb4-c273dfcb368c" />
 Bước 17: upload file dulieu.sql lên github repository của em (repository mà em đang edit file README.md)
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/5458f830-2e34-491d-b034-96f02a1814b7" />
 
